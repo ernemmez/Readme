@@ -109,8 +109,6 @@
 
 ###
 
-<br clear="both">
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"

@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'am Eren</h2>
+<h2 align="left">Hi 👋! I'm Eren</h2>
 
 ###
 
